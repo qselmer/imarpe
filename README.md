@@ -1,1 +1,2 @@
-# imarpe
+# DIRECCIÓN GENERAL DE INVESTIGACIONES DE RECURSOS PELÁGICOS (DGIRP)
+El desarrollo de las investigaciones de los recursos pelágicos orientadas a cuantificar los stocks y sus fluctuaciones espacio temporales en función del ambiente y la pesquería son los objetivos básicos de la Dirección General de Investigaciones de Recursos Pelágicos. Ello contribuye a determinar los niveles de extracción sustentables para recomendar las medidas de manejo para la sostenibilidad de estos recursos. Asimismo, la dirección realiza investigaciones sobre recursos transzonales y altamente migratorios; así como sobre la biología, ecología y tamaño poblacional de las aves, mamíferos y tortugas marinas, en concordancia con los acuerdos internacionales.
